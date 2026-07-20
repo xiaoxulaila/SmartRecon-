@@ -160,15 +160,13 @@
 
 ## 项目截图
 
-> 💡 *截图占位 — 替换为你的实际截图*
-
-| 首页上传面板 | 对账结果展示 |
+| 首页 | AI 设置 |
 |:---:|:---:|
-| ![上传面板](screenshots/upload.png) | ![对账结果](screenshots/result.png) |
+| ![首页](https://gitee.com/naitang_room/images/raw/master/%E5%AF%B9%E8%B4%A6%E7%B3%BB%E7%BB%9F%E9%A6%96%E9%A1%B5.png) | ![AI设置](https://gitee.com/naitang_room/images/raw/master/%E5%AF%B9%E8%B4%A6%E7%B3%BB%E7%BB%9Fai%E8%AE%BE%E7%BD%AE.png) |
 
-| AI 设置 | 历史记录 |
+| 历史记录 | 历史记录详情 |
 |:---:|:---:|
-| ![AI设置](screenshots/ai-settings.png) | ![历史记录](screenshots/history.png) |
+| ![历史记录](https://gitee.com/naitang_room/images/raw/master/%E5%AF%B9%E8%B4%A6%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95.png) | ![历史详情](https://gitee.com/naitang_room/images/raw/master/%E5%AF%B9%E8%B4%A6%E7%B3%BB%E7%BB%9F%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E8%AF%A6%E6%83%85.png) |
 
 ---
 
@@ -575,9 +573,10 @@ npm run build
 
 | 平台 | 链接 |
 |:---:|------|
-| 📺 **Bilibili** | [点击观看视频教程](https://www.bilibili.com/video/BV19bNd6bEqh/) |
+| 📺 **Bilibili** | [点击观看视频](https://www.bilibili.com/video/BV19bNd6bEqh/) |
 | 🎵 **抖音** | [点击观看实战演示](https://v.douyin.com/Zzln1BSknsc/) |
-| 🎬 **微信视频号** | [点击观看操作教学](https://weixin.qq.com/sph/ADBSdw8z25) |
+| 🎬 **微信视频号** | [点击观看操作](https://weixin.qq.com/sph/ADBSdw8z25) |
+| 💬 **微信公众号** | ![公众号](https://gitee.com/naitang_room/images/raw/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81_258.jpg) |
 
 ### 🐛 问题反馈
 
