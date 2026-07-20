@@ -7,6 +7,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Vue](https://img.shields.io/badge/Vue-3.4.0-4FC08D.svg)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0.10-646CFF.svg)](https://vitejs.dev/)
+[![Gitee](https://img.shields.io/badge/Gitee-码云-C71D23.svg)](https://gitee.com/naitang_room/smartreconzhinengduizhangxi)
 
 ---
 
@@ -183,6 +184,8 @@
 
 ```bash
 git clone https://github.com/xiaoxulaila/SmartRecon-.git
+# 或使用码云镜像
+git clone https://gitee.com/naitang_room/smartreconzhinengduizhangxi.git
 cd 对账项目
 ```
 
