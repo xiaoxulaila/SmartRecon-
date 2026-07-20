@@ -575,12 +575,9 @@ npm run build
 
 | 平台 | 链接 |
 |:---:|------|
-| 📺 **Bilibili** | [点击观看视频教程](https://space.bilibili.com/你的B站ID) |
-| 🎵 **抖音** | [点击观看短视频](https://www.douyin.com/user/你的抖音ID) |
-| 💬 **微信公众号** | 扫码关注获取最新更新 ↓ |
-| | ![公众号二维码](qrcode.jpg) |
-
-> 💡 *请将上述链接替换为你自己的 B站/抖音/公众号链接*
+| 📺 **Bilibili** | [点击观看视频教程](https://www.bilibili.com/video/BV19bNd6bEqh/) |
+| 🎵 **抖音** | [点击观看实战演示](https://v.douyin.com/Zzln1BSknsc/) |
+| 🎬 **微信视频号** | [点击观看操作教学](https://weixin.qq.com/sph/ADBSdw8z25) |
 
 ### 🐛 问题反馈
 
