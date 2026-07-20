@@ -1,0 +1,33 @@
+server:
+  port: 8088
+  error:
+    include-message: always
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 50MB
+      max-request-size: 50MB
+      resolve-lazily: false
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: Asia/Shanghai
+
+# OCR 配置 (Tesseract CLI)
+ocr:
+  enabled: true
+  tesseract-cmd: tesseract
+  tessdata-path: C:/Program Files/Tesseract-OCR/tessdata
+  language: chi_sim+eng
+  preprocess: true
+  scale: 2
+
+# 文件存储
+upload:
+  path: ./uploads
+
+# 对账匹配配置
+reconciliation:
+  amount-tolerance: 0.01
+  date-tolerance-days: 3
