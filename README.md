@@ -581,10 +581,39 @@ npm run build
 | 🎬 **微信视频号** | [点击观看操作](https://weixin.qq.com/sph/ADBSdw8z25) |
 | 💬 **微信公众号** | ![公众号](https://gitee.com/naitang_room/images/raw/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81_258.jpg) |
 
+### 💬 加我微信
+
+> 项目使用、技术交流、Bug 反馈、合作开发，欢迎加我微信 👇
+
+<p align="center">
+  <img src="https://gitee.com/naitang_room/images/raw/master/addme.jpg" width="200" alt="加我微信">
+</p>
+
 ### 🐛 问题反馈
 
 - **GitHub Issues**: [提交 Bug 或功能建议](https://github.com/xiaoxulaila/SmartRecon-/issues)
 - **Pull Request**: 欢迎贡献代码！
+
+---
+
+## ☕ 开源赞助
+
+如果 SmartRecon 帮到了你，让你少熬了几个夜，省下不少时间，欢迎请作者喝杯咖啡 ☕
+
+你的每一份支持，都是持续维护和迭代的动力 ✨
+
+<table>
+  <tr>
+    <td align="center"><b>支付宝</b></td>
+    <td align="center"><b>微信支付</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://gitee.com/naitang_room/images/raw/master/apay.png" width="200" alt="支付宝收款码"></td>
+    <td align="center"><img src="https://gitee.com/naitang_room/images/raw/master/wxpay.jpg" width="200" alt="微信收款码"></td>
+  </tr>
+</table>
+
+> 💝 赞助后可加微信备注"赞助"，后续会被拉进项目内测群，提前体验新功能。
 
 ---
 
